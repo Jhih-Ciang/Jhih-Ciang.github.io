@@ -19,4 +19,6 @@ Work Experience
 ======
 Research Assistant at Institute of Information Science, Academia Sinica. June 2016-present
 
-
+Awards
+======
+* Honoray Member of Phi Tau Phi Scholastic Honor Society.
