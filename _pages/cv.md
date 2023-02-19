@@ -22,3 +22,4 @@ Research Assistant at Institute of Information Science, Academia Sinica. June 20
 Awards
 ======
 * Honoray Member of Phi Tau Phi Scholastic Honor Society.
+* The University of Findlay and Southern New Hampshire University 33th scholarship
