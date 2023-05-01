@@ -14,7 +14,7 @@ I am a research assistant in [IIS CVML Lab](https://homepage.iis.sinica.edu.tw/~
 
 
 ## Academic Service
-Reviewer: TPAMI, 2023
+Reviewer: TPAMI, 2023  
 Reviewer: ICCV, 2023  
 Reviewer: CVPR, 2023  
 Reviewer: ACM Computing Surveys, 2023  
