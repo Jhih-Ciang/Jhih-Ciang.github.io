@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+* Contrastive Feature Decoupling for Weakly-supervised Disease Detection  
+ **Jhih-Ciang Wu**, Ding-Jie Chen and Chiou-Shann Fuh  
+*MICCAI 2023* 
+
 * Self-Supervised Sparse Representation for Video Anomaly Detection  
  **Jhih-Ciang Wu**\*, He-Yen Hsieh\*, Ding-Jie Chen, Chiou-Shann Fuh and Tyng-Luh Liu  
 *ECCV 2022* *equal contribution [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730727.pdf) [[supp]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730727-supp.pdf) [[code]](https://github.com/louisYen/S3R)
