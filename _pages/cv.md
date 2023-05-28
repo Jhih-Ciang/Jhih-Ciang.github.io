@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 
+* Ph.D. in Computer Science and Information Engineering, National Taiwan University, 2017-2023
 * M.S. in Applied Mathematical Sciences, National Taiwan University, 2013-2016
-* Ph.D in Computer Science and Information Engineering, National Taiwan University, 2017-present
 
 Work Experience
 ======
