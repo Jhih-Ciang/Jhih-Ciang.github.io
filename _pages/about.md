@@ -22,6 +22,6 @@ Reviewer: CVPR, 2023
 
 ## Referee for Journals  
 Reviewer: TPAMI, 2023  
-Reviewer: CVIU, 2021, 2022, 2023
-Reviewer: IEEE Transactions on Multimedia, 2023
+Reviewer: CVIU, 2021, 2022, 2023  
+Reviewer: TMM, 2023  
 Reviewer: ACM Computing Surveys, 2023  
