@@ -17,9 +17,10 @@ Education
 
 Work Experience
 ======
-Research Assistant at Institute of Information Science, Academia Sinica. June 2016-present
+Research Assistant at Institute of Information Science, Academia Sinica. June 2016-July 2023
 
 Awards
 ======
+* MICCAI 2023 STudent Author Registration (STAR) Award
 * Honoray Member of Phi Tau Phi Scholastic Honor Society.
 * The University of Findlay and Southern New Hampshire University 33th scholarship
