@@ -87,7 +87,7 @@ author:
   location         : "Taiwan"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=wy-9Kq8AAAAJ"
-  email            : "jcwu@iis.sinica.edu.tw"
+  email            : "jcwu@cmlab.csie.ntu.edu.tw"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  DBLP             : "https://dblp.org/pid/260/2877.html"
 
 
 # Reading Files
