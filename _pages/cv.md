@@ -17,8 +17,8 @@ Education
 
 Work Experience
 ======
-Postdoctoral Research Fellow, CSIE, National Taiwan University. September 2023-present  
-Research Assistant, IIS, Academia Sinica. June 2016-July 2023  
+* Postdoctoral Research Fellow, CSIE, National Taiwan University. September 2023-present  
+* Research Assistant, IIS, Academia Sinica. June 2016-July 2023  
 
 Awards
 ======
