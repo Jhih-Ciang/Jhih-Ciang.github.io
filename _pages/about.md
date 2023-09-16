@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [CMLab AIMM group](https://aimm.cmlab.csie.ntu.edu.tw/index.html) at National Taiwan University (NTU), supervised by Prof. [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/). Before my postdoctoral career, I served as a research assistant in the Institute of Information Science at Academia Sinica and obtained my Ph.D. degree in Computer Science and Information Engineering at NTU, advised by Dr. Tyng-Luh Liu and Prof. Chiou-Shann Fuh. My research topics cover computer vision and machine learning. I am most interested in exploring the latest research and novel techniques to develop an appropriate solution for the real world.
-
+I am a postdoctoral researcher in the [CMLab AIMM group](https://aimm.cmlab.csie.ntu.edu.tw/index.html) at National Taiwan University (NTU), supervised by Prof. [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/). Before my postdoctoral career, I was a research assistant at Academia Sinica and obtained my Ph.D. at NTU, advised by Dr. Tyng-Luh Liu and Prof. Chiou-Shann Fuh. My research topics cover computer vision, machine learning, and artificial intelligence.
 
 
 # Academic Service
