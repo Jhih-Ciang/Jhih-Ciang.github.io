@@ -22,7 +22,7 @@ Work Experience
 
 Awards
 ======
-* Presidential Award for Graduate Students, National Taiwan University. 
+* Presidential Award for Graduate Students, National Taiwan University
 * MICCAI 2023 STudent Author Registration (STAR) Award
-* Honoray Member of Phi Tau Phi Scholastic Honor Society.
+* Honoray Member of Phi Tau Phi Scholastic Honor Society
 * The University of Findlay and Southern New Hampshire University 33th scholarship
