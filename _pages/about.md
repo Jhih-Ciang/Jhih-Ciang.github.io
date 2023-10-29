@@ -16,7 +16,7 @@ I am a postdoctoral researcher in the [CMLab AIMM group](https://aimm.cmlab.csie
 ## Conference Services  
 
 Reviewer: ICCV, 2023  
-Reviewer: CVPR, 2023  
+Reviewer: CVPR, 2023, 2024  
 
 ## Referee for Journals  
 Reviewer: TPAMI, 2023  
