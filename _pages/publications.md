@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+* Learning Efficient Interaction Anchor for HOI Detection  
+Lirong Xue, Kang-Yang Huang, Rong Chao, **Jhih-Ciang Wu**, Hong-Han Shuai, Yung-Hui Li and Wen-Huang Cheng   
+*ICME 2024*
+
 * Contrastive Feature Decoupling for Weakly-supervised Disease Detection  
  **Jhih-Ciang Wu**, Ding-Jie Chen and Chiou-Shann Fuh  
 *MICCAI 2023* Early Accept (top 14%) [[pdf]](https://link.springer.com/content/pdf/10.1007/978-3-031-43904-9_25.pdf?pdf=inline%20link)
