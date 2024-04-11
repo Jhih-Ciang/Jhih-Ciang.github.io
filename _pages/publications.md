@@ -15,6 +15,10 @@ author_profile: true
 Lirong Xue, Kang-Yang Huang, Rong Chao, **Jhih-Ciang Wu**, Hong-Han Shuai, Yung-Hui Li and Wen-Huang Cheng   
 *ICME 2024 Oral*
 
+* TrajFine: Predicted Trajectory Refinement for Pedestrian Trajectory Forecasting  
+Kuan-Lin Wang, **Jhih-Ciang Wu**, Li-Wu Tsao, Hong-Han Shuai and Wen-Huang Cheng  
+*CVPR Workshop 2024*
+
 * Contrastive Feature Decoupling for Weakly-supervised Disease Detection  
  **Jhih-Ciang Wu**, Ding-Jie Chen and Chiou-Shann Fuh  
 *MICCAI 2023* Early Accept (top 14%) [[pdf]](https://link.springer.com/content/pdf/10.1007/978-3-031-43904-9_25.pdf?pdf=inline%20link)
@@ -32,7 +36,7 @@ Lirong Xue, Kang-Yang Huang, Rong Chao, **Jhih-Ciang Wu**, Hong-Han Shuai, Yung-
 *CVIU 2021* [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S1077314221000709)
 
 * Cast Search via Two-Stream Label Propagation  
- **Jhih-Ciang Wu**, Bing-Jhang Lin, Bing-Yuan Zeng, Li-Chen Fu, Chiou-Shann Fuh, Tyng-Luh Liu  
+ **Jhih-Ciang Wu**, Bing-Jhang Lin, Bing-Yuan Zeng, Li-Chen Fu, Chiou-Shann Fuh and Tyng-Luh Liu  
 *ICCV Workshop 2019* [[pdf]](https://openaccess.thecvf.com/content_ICCVW_2019/html/WIDER/Wu_Cast_Search_via_Two-Stream_Label_Propagation_ICCVW_2019_paper.html)
 
 
