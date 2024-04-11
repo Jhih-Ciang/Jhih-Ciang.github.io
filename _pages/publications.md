@@ -16,7 +16,7 @@ Lirong Xue, Kang-Yang Huang, Rong Chao, **Jhih-Ciang Wu**, Hong-Han Shuai, Yung-
 *ICME 2024 Oral*
 
 * TrajFine: Predicted Trajectory Refinement for Pedestrian Trajectory Forecasting  
-Kuan-Lin Wang, **Jhih-Ciang Wu**, Li-Wu Tsao, Hong-Han Shuai and Wen-Huang Cheng  
+Kuan-Lin Wang, Li-Wu Tsao, **Jhih-Ciang Wu**, Hong-Han Shuai and Wen-Huang Cheng  
 *CVPR Workshop 2024*
 
 * Contrastive Feature Decoupling for Weakly-supervised Disease Detection  
