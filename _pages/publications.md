@@ -12,11 +12,11 @@ author_profile: true
 {% include base_path %}
 
 * Learning Efficient Interaction Anchor for HOI Detection  
-Lirong Xue, Kang-Yang Huang, Rong Chao, **Jhih-Ciang Wu**, Hong-Han Shuai, Yung-Hui Li and Wen-Huang Cheng   
+Lirong Xue, Kang-Yang Huang, Rong Chao, **Jhih-Ciang Wu**, [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/), Yung-Hui Li and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/)   
 *ICME 2024 Oral*
 
 * TrajFine: Predicted Trajectory Refinement for Pedestrian Trajectory Forecasting  
-Kuan-Lin Wang, Li-Wu Tsao, **Jhih-Ciang Wu**, Hong-Han Shuai and Wen-Huang Cheng  
+Kuan-Lin Wang, Li-Wu Tsao, **Jhih-Ciang Wu**, [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/)  
 *CVPR Workshop 2024*
 
 * Contrastive Feature Decoupling for Weakly-supervised Disease Detection  
