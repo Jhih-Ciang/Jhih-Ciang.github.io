@@ -26,7 +26,7 @@ Lirong Xue, Kang-Yang Huang, Rong Chao, **Jhih-Ciang Wu**, [Hong-Han Shuai](http
 
 * TrajFine: Predicted Trajectory Refinement for Pedestrian Trajectory Forecasting  
 Kuan-Lin Wang, Li-Wu Tsao, **Jhih-Ciang Wu**, [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/)  
-*CVPR Workshop 2024*
+*CVPR Workshop 2024* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Wang_TrajFine_Predicted_Trajectory_Refinement_for_Pedestrian_Trajectory_Forecasting_CVPRW_2024_paper.pdf)
 
 * Contrastive Feature Decoupling for Weakly-supervised Disease Detection  
  **Jhih-Ciang Wu**, Ding-Jie Chen and Chiou-Shann Fuh  
