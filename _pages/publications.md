@@ -17,7 +17,7 @@ Li-Wu Tsao, Hao-Tang Tsui, Yu Rou Tuan, Pei-Chi Chen, Kuan-Lin Wang, **Jhih-Cian
 *ECCV 2024*
 
 * Dual Memory-guided Probabilistic Model for Weakly-supervised Anomaly Detection  
-Hsiu-Hua Chou , Ruyi Xu , Kang-Yang Huang , **Jhih-Ciang Wu**, [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/), and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/)
+Hsiu-Hua Chou , Ruyi Xu , Kang-Yang Huang , **Jhih-Ciang Wu**, [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/), and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/)  
 *IJCAI Workshop 2024*
 
 * Learning Efficient Interaction Anchor for HOI Detection  
