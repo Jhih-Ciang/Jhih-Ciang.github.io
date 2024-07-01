@@ -11,6 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+
+* TrajPrompt: Aligning Color Trajectory with Vision-Language Representations  
+Li-Wu Tsao, Hao-Tang Tsui, Yu Rou Tuan, Pei-Chi Chen, Kuan-Lin Wang, **Jhih-Ciang Wu**, [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/), and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/)   
+*ECCV 2024*
+
+* Dual Memory-guided Probabilistic Model for Weakly-supervised Anomaly Detection  
+Hsiu-Hua Chou , Ruyi Xu , Kang-Yang Huang , **Jhih-Ciang Wu**, [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/), and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/)
+*IJCAI Workshop 2024*
+
 * Learning Efficient Interaction Anchor for HOI Detection  
 Lirong Xue, Kang-Yang Huang, Rong Chao, **Jhih-Ciang Wu**, [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/), Yung-Hui Li and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/)   
 *ICME 2024 Oral*
