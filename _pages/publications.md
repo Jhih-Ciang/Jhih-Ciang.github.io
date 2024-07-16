@@ -14,7 +14,7 @@ author_profile: true
 
 * ReCorD: Reasoning and Correcting Diffusion for HOI Generation  
 Jian-Yu Jiang-Lin, Kang-Yang Huang, [Ling Lo](https://lynn-ling-lo.github.io/), Yi-Ning Huang, Terencen Lin, **Jhih-Ciang Wu**, [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/), and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/)   
-*ACM MM 2024*
+*ACM MM 2024* [[project website]](https://alberthkyhky.github.io/ReCorD/)
 
 * TrajPrompt: Aligning Color Trajectory with Vision-Language Representations  
 Li-Wu Tsao, Hao-Tang Tsui, Yu Rou Tuan, Pei-Chi Chen, Kuan-Lin Wang, **Jhih-Ciang Wu**, [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/), and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/)   
