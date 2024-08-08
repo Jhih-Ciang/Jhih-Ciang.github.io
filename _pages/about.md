@@ -15,15 +15,7 @@ I am a postdoctoral researcher in the [CMLab AIMM group](https://aimm.cmlab.csie
 
 ## Conference Services  
 
-Reviewer: ICCV, 2023  
-Reviewer: ECCV, 2024  
-Reviewer: CVPR, 2023, 2024  
-Reviewer: ICME, 2024  
-Reviewer: ACCV, 2024  
+Reviewer: CVPR, ICCV, ECCV, ACCV, ICME 
 
 ## Referee for Journals  
-Reviewer: TCSVT, 2024  
-Reviewer: TPAMI, 2023  
-Reviewer: CVIU, 2021, 2022, 2023  
-Reviewer: TMM, 2023  
-Reviewer: ACM Computing Surveys, 2023  
+Reviewer: TPAMI, TMM, TCSVT, CVIU, ACM Computing Surveys 
