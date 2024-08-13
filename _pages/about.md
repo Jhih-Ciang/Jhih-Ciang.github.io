@@ -15,8 +15,7 @@ I am a postdoctoral researcher in the [CMLab AIMM group](https://aimm.cmlab.csie
 
 ## Conference Services  
 
-Program Committee: AAAI  
-Reviewer: CVPR, ICCV, ECCV, ACCV, ICME 
+Reviewer: CVPR, ICCV, ECCV, AAAI, ACCV, ICME 
 
 ## Referee for Journals  
 Reviewer: TPAMI, TMM, TCSVT, CVIU, ACM Computing Surveys 
