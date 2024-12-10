@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+* Memory-augmented Re-completion for 3D Semantic Scene Completion  
+Yu-Wen Tseng, Sheng-Ping Yang, **Jhih-Ciang Wu**, I-Bin Liao, Yung-Hui Li, Hong-Han Shuai, and Wen-Huang Cheng   
+*AAAI 2025* 
 
 * ReCorD: Reasoning and Correcting Diffusion for HOI Generation  
 Jian-Yu Jiang-Lin\*, Kang-Yang Huang\*, Ling Lo, Yi-Ning Huang, Terence Lin, **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
