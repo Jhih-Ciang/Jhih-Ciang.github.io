@@ -18,4 +18,4 @@ I am a postdoctoral researcher in the [CMLab AIMM group](https://aimm.cmlab.csie
 Reviewer: CVPR, ICCV, ECCV, AAAI, MM, ACCV, ICME 
 
 ## Referee for Journals  
-Reviewer: TPAMI, IJCV, TMM, TCSVT, CVIU, ACM Computing Surveys 
+Reviewer: TPAMI, IJCV, TMM, TIP, TCSVT, CVIU, ACM Computing Surveys 
