@@ -15,6 +15,7 @@ I am a postdoctoral researcher in the [CMLab AIMM group](https://aimm.cmlab.csie
 
 ## Conference Services  
 
+Area Chair: ICME  
 Reviewer: CVPR, ICCV, ECCV, AAAI, MM, ACCV, ICME 
 
 ## Referee for Journals  
