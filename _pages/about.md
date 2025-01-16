@@ -11,7 +11,14 @@ redirect_from:
 
 I am currently an Assistant Professor at the Department of Computer Science and Information Engineering at the National Taiwan Normal University (NTNU). Prior to this role, I served as a Postdoctoral Researcher in the [CMLab AIMM group](https://aimm.cmlab.csie.ntu.edu.tw/index.html) at National Taiwan University (NTU) under the mentorship of Prof. [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/). Additionally, I have gained valuable experience as a Research Assistant at Academia Sinica and earned my Ph.D. from NTU.
 
-My research interests span computer vision, machine learning, multimedia, and artificial intelligence, with a focus on developing innovative approaches for real-world applications. I am passionate about mentoring highly self-motivated students and fostering collaborative research. If you are interested in collaboration or research opportunities, feel free to reach out.
+My research interests span computer vision, machine learning, multimedia, and artificial intelligence, with a focus on developing innovative approaches for real-world applications. I am passionate about mentoring highly motivated students and am open to potential collaborative research. If you are interested in collaboration or research opportunities, feel free to reach out.
+
+My research interests encompass **computer vision**, **machine learning**, **multimedia**, and **artificial intelligence**, with a strong emphasis on developing innovative solutions for real-world challenges. I am dedicated to mentoring highly motivated students and fostering their growth in research and problem-solving. Additionally, I am open to potential collaborations and welcome opportunities to work on impactful research projects. If you are interested in collaboration or research opportunities, feel free to reach out.
+
+
+
+
+📩 *jcwu (at) csie (dot) ntnu (dot) edu (dot) tw*
 
 
 # Academic Service
