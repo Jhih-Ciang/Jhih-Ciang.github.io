@@ -18,11 +18,13 @@ Education
 
 Work Experience
 ======
-* Postdoctoral Research Fellow, CSIE, National Taiwan University. September 2023-present  
+* Assistant Professor, CSIE, National Taiwan Normal University. Feb 2025-current  
+* Postdoctoral Research Fellow, CSIE, National Taiwan University. September 2023-Jan 2025  
 * Research Assistant, IIS, Academia Sinica. June 2016-July 2023  
 
 Awards
 ======
+* Newly Appointed Distinguished Talent Incentive, National Taiwan Normal University, 2025
 * Presidential Award for Graduate Students, National Taiwan University, 2023
 * MICCAI 2023 STudent Author Registration (STAR) Award
 * Honoray Member of Phi Tau Phi Scholastic Honor Society
