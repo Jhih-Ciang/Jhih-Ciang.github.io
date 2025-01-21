@@ -12,7 +12,6 @@ Education
 
 * Ph.D. in Computer Science and Information Engineering, National Taiwan University, 2017-2023
 * M.S. in Applied Mathematical Sciences, National Taiwan University, 2013-2016
-* B.S. in Mathematics Education, National Taichung University of Education, 2010-2013
 
 Work Experience
 ======
