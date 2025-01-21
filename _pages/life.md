@@ -4,6 +4,4 @@ permalink: /life/
 author_profile: true
 ---
 
-
-![2025-01-05](../images/IMG_2851.png =1024x "secondfloorcafe, Gongguan").
-
+![](../images/IMG_2851.png "secondfloorcafe, Gongguan") 2025-01-05, Secondfloor Cafe, Gongguan
