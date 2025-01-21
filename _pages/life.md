@@ -11,5 +11,6 @@ author_profile: true
       <img src="../images/IMG_2851.png" alt="TEBOpt">
     </td>
     <td style="border: 0px solid black; padding: 8px;">2025-01-05 AIMMers gathering@Secondfloor Cafe, Gongguan
+    </td>
   </tr>
 </table>
