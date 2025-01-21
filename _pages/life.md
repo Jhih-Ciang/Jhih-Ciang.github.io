@@ -4,4 +4,12 @@ permalink: /life/
 author_profile: true
 ---
 
-![](../images/IMG_2851.png "secondfloorcafe, Gongguan") 2025-01-05, Secondfloor Cafe, Gongguan
+
+<table style="width: 80%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 30%; border: 0px solid black; padding: 8px;">
+      <img src="../images/IMG_2851.png" alt="TEBOpt">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;">2025-01-05 AIMMers gathering, Secondfloor Cafe, Gongguan
+  </tr>
+</table>
