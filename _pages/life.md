@@ -7,9 +7,9 @@ author_profile: true
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 70%; border: 0px solid black; padding: 8px;">
-      <img src="../images/life/20221022.png">
+      <img src="../images/life/20221025.png">
     </td>
-    <td style="border: 0px solid black; padding: 8px;">2022-10-22 ECCV'22@Tel Aviv, Israel
+    <td style="border: 0px solid black; padding: 8px;">2022-10-25 ECCV'22@Tel Aviv, Israel
     </td>
   </tr>
 </table>
