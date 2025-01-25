@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am currently an Assistant Professor at the Department of Computer Science and Information Engineering at the National Taiwan Normal University (NTNU). Prior to this role, I served as a Postdoctoral Researcher in the [CMLab AIMM group](https://aimm.cmlab.csie.ntu.edu.tw/index.html) at National Taiwan University (NTU) under the mentorship of Prof. [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/). Additionally, I have gained valuable experience as a Research Assistant at Academia Sinica and earned my Ph.D. from NTU.
+I am currently an Assistant Professor at the Department of Computer Science and Information Engineering at the National Taiwan Normal University (NTNU). Prior to this position, I served as a Postdoctoral Researcher in the [CMLab AIMM group](https://aimm.cmlab.csie.ntu.edu.tw/index.html) at National Taiwan University (NTU) under the mentorship of Prof. [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/). Additionally, I have gained valuable experience as a Research Assistant at Academia Sinica and earned my Ph.D. from NTU.
 
-My research interests encompass **computer vision**, **machine learning**, **multimedia**, and **artificial intelligence**, with a strong emphasis on developing innovative solutions for real-world challenges. I am dedicated to mentoring highly motivated students and fostering their growth in research and problem-solving. Additionally, I am open to potential collaborations and welcome opportunities to work on impactful research projects. If you are interested in collaboration (both academic and industrial), feel free to reach out.
+My research interests encompass **computer vision**, **machine learning**, **multimedia**, and **artificial intelligence**, with a strong enthusiasm for developing innovative solutions for real-world challenges. I am dedicated to mentoring highly motivated students and fostering their growth in research and problem-solving. Additionally, I am open to potential collaborations and welcome opportunities to work on impactful research projects. If you are interested in collaboration (both academic and industrial), feel free to reach out.
 
 
 
