@@ -4,6 +4,25 @@ permalink: /life/
 author_profile: true
 ---
 
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 70%; border: 0px solid black; padding: 8px;">
+      <img src="../images/life/20221022.png">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;">2022-10-22 ECCV'22@Tel Aviv, Israel
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 70%; border: 0px solid black; padding: 8px;">
+      <img src="../images/life/20231010.png">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;">2023-10-10 MICCAI'23@Vancouver, Canada
+    </td>
+  </tr>
+</table>
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
@@ -14,7 +33,6 @@ author_profile: true
     </td>
   </tr>
 </table>
-
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
