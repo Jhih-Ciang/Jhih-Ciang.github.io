@@ -15,6 +15,17 @@ author_profile: true
   </tr>
 </table>
 
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 70%; border: 0px solid black; padding: 8px;">
+      <img src="../images/life/20241012.png">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;">2024-10-12 Visit and Chengjie and Jiangning@Tencent Youtu Lab, Shanghai, China
+    </td>
+  </tr>
+</table>
+
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 70%; border: 0px solid black; padding: 8px;">
