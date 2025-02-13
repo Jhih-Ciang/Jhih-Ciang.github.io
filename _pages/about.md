@@ -27,4 +27,4 @@ Area Chair: ICME
 Reviewer: CVPR, ICCV, ECCV, AAAI, MM, ACCV, ICME 
 
 ## Referee for Journals  
-Reviewer: TPAMI, IJCV, TMM, TIP, TCSVT, CVIU, ACM Computing Surveys 
+Reviewer: TPAMI, IJCV, TMM, TIP, TCSVT, TVCG, CVIU, ACM Computing Surveys 
