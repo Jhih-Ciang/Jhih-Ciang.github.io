@@ -10,6 +10,10 @@ author_profile: true
 
 {% include base_path %}
 
+* MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection  
+Hou-I Liu, Christine Wu, Jen-Hao Cheng, Wenhao Chai, Shian-yun Wang, Gaowen Liu, Hugo Latapie, **Jhih-Ciang Wu**, Jenq-Neng Hwang, Hong-Han Shuai, Wen-Huang Cheng   
+*CVPR 2025* 
+
 * Memory-augmented Re-completion for 3D Semantic Scene Completion  
 Yu-Wen Tseng, Sheng-Ping Yang, **Jhih-Ciang Wu**, I-Bin Liao, Yung-Hui Li, Hong-Han Shuai, and Wen-Huang Cheng   
 *AAAI 2025* 
