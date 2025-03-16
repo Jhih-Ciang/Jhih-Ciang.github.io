@@ -12,11 +12,11 @@ author_profile: true
 
 * MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection  
 Hou-I Liu, Christine Wu, Jen-Hao Cheng, Wenhao Chai, Shian-yun Wang, Gaowen Liu, Hugo Latapie, **Jhih-Ciang Wu**, Jenq-Neng Hwang, Hong-Han Shuai, Wen-Huang Cheng   
-*CVPR 2025* 
+*CVPR 2025* [[code]](https://github.com/hoiliu-0801/MonoTAKD)
 
 * Memory-augmented Re-completion for 3D Semantic Scene Completion  
 Yu-Wen Tseng, Sheng-Ping Yang, **Jhih-Ciang Wu**, I-Bin Liao, Yung-Hui Li, Hong-Han Shuai, and Wen-Huang Cheng   
-*AAAI 2025* 
+*AAAI 2025* [[code]](https://github.com/ywtseng0226/MARE)
 
 * ReCorD: Reasoning and Correcting Diffusion for HOI Generation  
 Jian-Yu Jiang-Lin\*, Kang-Yang Huang\*, Ling Lo, Yi-Ning Huang, Terence Lin, **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
