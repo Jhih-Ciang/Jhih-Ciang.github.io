@@ -6,17 +6,19 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-
-* Ph.D. in Computer Science and Information Engineering, National Taiwan University, 2017-2023
-* M.S. in Applied Mathematical Sciences, National Taiwan University, 2013-2016
 
 Work Experience
 ======
 * Assistant Professor, CSIE, National Taiwan Normal University. Feb 2025-current  
 * Postdoctoral Research Fellow, CSIE, National Taiwan University. September 2023-Jan 2025  
 * Research Assistant, IIS, Academia Sinica. June 2016-July 2023  
+
+Education
+======
+
+* Ph.D. in Computer Science and Information Engineering, National Taiwan University, 2017-2023
+* M.S. in Applied Mathematical Sciences, National Taiwan University, 2013-2016
+* B.S. in Mathematics Education, National Taichung University of Education, 2010-2013
 
 Awards
 ======
