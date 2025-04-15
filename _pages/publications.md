@@ -16,7 +16,7 @@ Hou-I Liu, Christine Wu, Jen-Hao Cheng, Wenhao Chai, Shian-yun Wang, Gaowen Liu,
 
 * Memory-augmented Re-completion for 3D Semantic Scene Completion  
 Yu-Wen Tseng, Sheng-Ping Yang, **Jhih-Ciang Wu**, I-Bin Liao, Yung-Hui Li, Hong-Han Shuai, and Wen-Huang Cheng   
-*AAAI 2025* [[code]](https://github.com/ywtseng0226/MARE)
+*AAAI 2025* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32801) [[code]](https://github.com/ywtseng0226/MARE)
 
 * ReCorD: Reasoning and Correcting Diffusion for HOI Generation  
 Jian-Yu Jiang-Lin\*, Kang-Yang Huang\*, Ling Lo, Yi-Ning Huang, Terence Lin, **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
