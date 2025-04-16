@@ -20,7 +20,7 @@ Yu-Wen Tseng, Sheng-Ping Yang, **Jhih-Ciang Wu**, I-Bin Liao, Yung-Hui Li, Hong-
 
 * ReCorD: Reasoning and Correcting Diffusion for HOI Generation  
 Jian-Yu Jiang-Lin\*, Kang-Yang Huang\*, Ling Lo, Yi-Ning Huang, Terence Lin, **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
-*ACM MM 2024* *equal contribution [[project website]](https://alberthkyhky.github.io/ReCorD/) [[code]](https://github.com/j1anglin/ReCorD)
+*ACM MM 2024* *equal contribution [[paper]](https://dl.acm.org/doi/10.1145/3664647.3680936) [[project website]](https://alberthkyhky.github.io/ReCorD/) [[code]](https://github.com/j1anglin/ReCorD)
 
 * TrajPrompt: Aligning Color Trajectory with Vision-Language Representations  
 Li-Wu Tsao, Hao-Tang Tsui, Yu Rou Tuan, Pei-Chi Chen, Kuan-Lin Wang, **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
