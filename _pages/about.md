@@ -19,11 +19,14 @@ My research interests encompass **computer vision**, **machine learning**, **mul
 📩 *jcwu (at) csie (dot) ntnu (dot) edu (dot) tw*
 
 
+‼️ The MS position for 2025 is currently filled. Please stay tuned for any potential openings.
+
 # Academic Service
 
 ## Conference Services  
 
-Area Chair: ICME  
+Workflow co-chair: ACML'25
+Area Chair: ICME'25  
 Reviewer: CVPR, ICCV, ECCV, AAAI, MM, ACCV, ICME 
 
 ## Referee for Journals  
