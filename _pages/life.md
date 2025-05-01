@@ -7,9 +7,19 @@ author_profile: true
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 70%; border: 0px solid black; padding: 8px;">
-      <img src="../images/life/IMG_3644.HEIC">
+      <img src="../images/life/20250430.png">
     </td>
-    <td style="border: 0px solid black; padding: 8px;">2025-04-16 Prof. Yan-Tsung Peng's talk @NTNU
+    <td style="border: 0px solid black; padding: 8px;">2025-04-30 The celebration of our MM'24 acceptance following Ling Lo's talk at NTNU.
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 70%; border: 0px solid black; padding: 8px;">
+      <img src="../images/life/20250423.png">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;">2025-04-23 Fred's talk @NTNU
     </td>
   </tr>
 </table>
