@@ -7,6 +7,16 @@ author_profile: true
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 70%; border: 0px solid black; padding: 8px;">
+      <img src="../images/life/IMG_3644.HEIC">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;">2025-04-16 Prof. Yan-Tsung Peng's talk @NTNU
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 70%; border: 0px solid black; padding: 8px;">
       <img src="../images/life/20250416.png">
     </td>
     <td style="border: 0px solid black; padding: 8px;">2025-04-16 Prof. Yan-Tsung Peng's talk @NTNU
