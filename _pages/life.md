@@ -77,7 +77,7 @@ author_profile: true
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 70%; border: 0px solid black; padding: 8px;">
-      <img src="../images/life/20241003.png">
+      <img src="../images/life/20241003.jpg">
     </td>
     <td style="border: 0px solid black; padding: 8px;">2024-10-03 ECCV'24@Milan, Italy
     </td>
