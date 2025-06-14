@@ -19,7 +19,7 @@ author_profile: true
     <td style="width: 70%; border: 0px solid black; padding: 8px;">
       <img src="../images/life/20250430.jpg">
     </td>
-    <td style="border: 0px solid black; padding: 8px;">2025-04-30 The celebration of our MM'24 acceptance following Ling Lo's talk at NTNU.
+    <td style="border: 0px solid black; padding: 8px;">2025-04-30 The gathering after Ling Lo's talk at NTNU.
     </td>
   </tr>
 </table>
