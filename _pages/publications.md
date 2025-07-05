@@ -10,6 +10,14 @@ author_profile: true
 
 {% include base_path %}
 
+* InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing    
+Kun-Hsiang Lin, Yu-Wen Tseng, Kang-Yang Huang, **Jhih-Ciang Wu**, and Wen-Huang Cheng   
+*ACM MM 2025* 
+
+* Flowing Crowd to Count Flows: A Self-Supervised Framework for Video Individual Counting  
+Feng-Kai Huang, Bo-Lun Huang, Li-Wu Tsao, **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
+*ACM MM 2025* 
+
 * Unraveling Vanishing Point and Calibrating Tiny Objects for Semantic Scene Completion  
 Sheng-Ping Yang, Yu-Wen Tseng, Yung-Chieh Yang, I-Bin Liao, Chi-En Huang, Shen-Hsuan Liu, Yung-Hui Li, **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
 *ICIP 2025* 
