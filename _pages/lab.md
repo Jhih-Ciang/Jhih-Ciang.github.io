@@ -53,6 +53,14 @@ Welcome to the Computer Vision and Intelligence (CVI) lab! Here are the amazing 
     <img src="../images/lab/Tzu-Chien.jpg" width="200" alt="Maxcho">
     <p><strong>Tzu-Chien Huang</strong></p>
   </div>
+  <div>
+    <img src="../images/lab/Kuan-Hung.jpg" width="200" alt="Maxcho">
+    <p><strong>Kuan-Hung Chen</strong></p>
+  </div>
+  <div>
+    <img src="../images/lab/Chia-Hsin.jpg" width="200" alt="Maxcho">
+    <p><strong>Chia-Hsin Chang</strong></p>
+  </div>
 </div>
 
 
