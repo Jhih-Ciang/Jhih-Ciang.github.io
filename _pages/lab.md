@@ -17,6 +17,7 @@ Welcome to the Computer Vision and Intelligence (CVI) lab! Here are the amazing 
   <h3><strong>Jhih-Ciang Wu</strong></h3>
 </div>
 
+---
 
 ## MS Students
 <div style="text-align: center;">
