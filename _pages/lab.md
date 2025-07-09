@@ -44,18 +44,6 @@ Welcome to the Computer Vision and Intelligence (CVI) lab! Here are the amazing 
     <img src="../images/lab/Yu-Chiao.jpg" width="200" alt="Maxcho">
     <p><strong>Yu-Chiao Cheng</strong></p>
   </div>
-  <div>
-    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>I-Han Cho</strong></p>
-  </div>
-  <div>
-    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>I-Han Cho</strong></p>
-  </div>
-  <div>
-    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>I-Han Cho</strong></p>
-  </div>
 </div>
 
 ---
