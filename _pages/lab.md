@@ -21,28 +21,8 @@ Welcome to CVI lab! Here are the amazing individuals who make up our team:
 ## MS Students
 <div style="text-align: center;">
   <div>
-    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>I-Han Cho</strong></p>
-  </div>
-  <div>
-    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>I-Han Cho</strong></p>
-  </div>
-  <div>
-    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>I-Han Cho</strong></p>
-  </div>
-  <div>
-    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>I-Han Cho</strong></p>
-  </div>
-  <div>
-    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>I-Han Cho</strong></p>
-  </div>
-  <div>
-    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>I-Han Cho</strong></p>
+    <img src="../images/lab/Devansh.jpg" width="200" alt="Maxcho">
+    <p><strong>Devansh Saxena</strong></p>
   </div>
 </div>
 
