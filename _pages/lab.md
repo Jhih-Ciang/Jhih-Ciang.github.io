@@ -6,7 +6,7 @@ author_profile: true
 
 # Meet Our Lab Members
 
-Welcome to our lab! Here are the amazing individuals who make up our team:
+Welcome to CVI lab! Here are the amazing individuals who make up our team:
 
 ---
 
