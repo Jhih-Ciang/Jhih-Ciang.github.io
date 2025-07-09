@@ -10,9 +10,11 @@ Welcome to CVI lab! Here are the amazing individuals who make up our team:
 ---
 
 ## Principal Investigator
-**Jhih-Ciang Wu** <img src="../images/lab/JC.jpg"  width="200"> 
+###  **Jhih-Ciang Wu** <img src="../images/lab/JC.jpg"  width="200"> 
 
 
+<center><img src="../images/lab/JC.jpg"  width="200"></center>
+<center>Jhih-Ciang Wu</center>
 
 
 
