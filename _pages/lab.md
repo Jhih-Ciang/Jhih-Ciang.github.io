@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 # Meet Our Lab Members
-
 Welcome to CVI lab! Here are the amazing individuals who make up our team:
 
 ---
