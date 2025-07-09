@@ -10,19 +10,22 @@ Welcome to CVI lab! Here are the amazing individuals who make up our team:
 ---
 
 ## Principal Investigator
-**Jhih-Ciang Wu**
-![Photo of [Member Name]](photo_url_here)  
+**Jhih-Ciang Wu** <img src="../images/lab/JC.jpg"  width="200"/>
+
 
 ## MS Students
 **Test**
-![Photo of [Member Name]](photo_url_here)  
+**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
 
 ---
 
 ## BS Students
-**Maxcho**
-![Photo of [Member Name]](photo_url_here)  
+**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
+**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
+**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
 
-
+**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
+**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
+**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
 
 ---
