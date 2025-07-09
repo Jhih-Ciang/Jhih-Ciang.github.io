@@ -4,31 +4,25 @@ permalink: /lab/
 author_profile: true
 ---
 
-# Meet Our Lab Members
+
 Welcome to CVI lab! Here are the amazing individuals who make up our team:
 
 ---
 
-## [Member Name]
+## Principal Investigator
+**Jhih-Ciang Wu**
 ![Photo of [Member Name]](photo_url_here)  
-**Role:** [Role/Position]  
-**Email:** [Email Address]  
-**LinkedIn:** [LinkedIn Profile URL]  
-**Website:** [Personal/Professional Website URL]  
 
-**Bio:**  
-[Write a brief bio about the member here. Include their research interests, background, and any notable achievements.]
+## MS Students
+**Test**
+![Photo of [Member Name]](photo_url_here)  
 
 ---
 
-## [Member Name]
+## BS Students
+**Maxcho**
 ![Photo of [Member Name]](photo_url_here)  
-**Role:** [Role/Position]  
-**Email:** [Email Address]  
-**LinkedIn:** [LinkedIn Profile URL]  
-**Website:** [Personal/Professional Website URL]  
 
-**Bio:**  
-[Write a brief bio about the member here. Include their research interests, background, and any notable achievements.]
+
 
 ---
