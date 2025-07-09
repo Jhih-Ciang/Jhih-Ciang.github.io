@@ -22,6 +22,10 @@ Welcome to the Computer Vision and Intelligence (CVI) lab! Here are the amazing 
 ## MS Students
 <div style="text-align: center;">
   <div>
+    <img src="../images/lab/benson.jpg" width="200" alt="Maxcho">
+    <p><strong>Bo-Siang Chen</strong></p>
+  </div>
+  <div>
     <img src="../images/lab/Devansh.jpg" width="200" alt="Maxcho">
     <p><strong>Devansh Saxena</strong></p>
   </div>
