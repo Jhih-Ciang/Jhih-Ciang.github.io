@@ -10,55 +10,71 @@ Welcome to CVI lab! Here are the amazing individuals who make up our team:
 ---
 
 ## Principal Investigator
-###  **Jhih-Ciang Wu** <img src="../images/lab/JC.jpg"  width="200"> 
 
 
+<div style="text-align: center;">
+  <img src="../images/lab/JC.jpg" width="200" alt="Jhih-Ciang Wu">
+  <h3><strong>Jhih-Ciang Wu</strong></h3>
+</div>
 
 
 ## MS Students
-**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
+<div style="text-align: center;">
+  <div>
+    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
+    <p><strong>I-Han Cho</strong></p>
+  </div>
+  <div>
+    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
+    <p><strong>I-Han Cho</strong></p>
+  </div>
+  <div>
+    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
+    <p><strong>I-Han Cho</strong></p>
+  </div>
+  <div>
+    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
+    <p><strong>I-Han Cho</strong></p>
+  </div>
+  <div>
+    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
+    <p><strong>I-Han Cho</strong></p>
+  </div>
+  <div>
+    <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
+    <p><strong>I-Han Cho</strong></p>
+  </div>
+</div>
 
 ---
 
 ## BS Students
 
 
-
-**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
-**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
-**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
-
-**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
-**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
-**Maxcho**  <img src="../images/lab/maxcho.jpg"  width="200"/>
-
-
-
-
 <div style="text-align: center;">
   <div>
     <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>Maxcho</strong></p>
+    <p><strong>I-Han Cho</strong></p>
   </div>
   <div>
     <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>Maxcho</strong></p>
+    <p><strong>I-Han Cho</strong></p>
   </div>
   <div>
     <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>Maxcho</strong></p>
+    <p><strong>I-Han Cho</strong></p>
   </div>
   <div>
     <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>Maxcho</strong></p>
+    <p><strong>I-Han Cho</strong></p>
   </div>
   <div>
     <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>Maxcho</strong></p>
+    <p><strong>I-Han Cho</strong></p>
   </div>
   <div>
     <img src="../images/lab/maxcho.jpg" width="200" alt="Maxcho">
-    <p><strong>Maxcho</strong></p>
+    <p><strong>I-Han Cho</strong></p>
   </div>
 </div>
 
