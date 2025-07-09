@@ -7,7 +7,7 @@ author_profile: true
 
 Welcome to the Computer Vision and Intelligence (CVI) lab! Here are the amazing individuals who make up our team:
 
----
+
 
 ## Principal Investigator
 
