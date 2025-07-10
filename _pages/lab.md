@@ -80,6 +80,10 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   <div>
     <img src="../images/lab/013.jpg" width="200" alt="Jethro Lo">
     <p><strong>Jethro Lo</strong></p>
+  </div>
+  <div>
+    <img src="../images/lab/014.jpg" width="200" alt="Chao-Yu Chen">
+    <p><strong>Chao-Yu Chen</strong></p>
   </div>  
 </div>
 
