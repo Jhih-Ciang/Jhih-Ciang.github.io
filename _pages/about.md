@@ -27,7 +27,7 @@ My research interests encompass **computer vision**, **machine learning**, **mul
 
 Workflow co-chair: ACML'25  
 Area Chair: ICME'25  
-Reviewer: CVPR, ICCV, ECCV, AAAI, MM, ACCV, ICME 
+Reviewer: CVPR, ICCV, ECCV, AAAI, MM, ACCV, WACV, ICME, PG 
 
 ## Referee for Journals  
 Reviewer: TPAMI, IJCV, TMM, TIP, TCSVT, TVCG, CVIU, ACM Computing Surveys 
