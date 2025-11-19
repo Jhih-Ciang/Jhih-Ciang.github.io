@@ -12,15 +12,15 @@ author_profile: true
 
 * InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing    
 Kun-Hsiang Lin, Yu-Wen Tseng, Kang-Yang Huang, **Jhih-Ciang Wu**, and Wen-Huang Cheng   
-*ACM MM 2025* [[project website]](https://kunkunlin1221.github.io/InstructFLIP/) [[code]](https://github.com/kunkunlin1221/InstructFLIP )
+*ACM MM 2025* [[paper]](https://dl.acm.org/doi/10.1145/3746027.3754939) [[project website]](https://kunkunlin1221.github.io/InstructFLIP/) [[code]](https://github.com/kunkunlin1221/InstructFLIP )
 
 * Flowing Crowd to Count Flows: A Self-Supervised Framework for Video Individual Counting  
 Feng-Kai Huang, Bo-Lun Huang, Li-Wu Tsao, **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
-*ACM MM 2025* [[project website]](https://leohuang0511.github.io/vic-ssl/) [[code]](https://github.com/LeoHuang0511/VICSSL)
+*ACM MM 2025* [[paper]](https://dl.acm.org/doi/10.1145/3746027.3755385) [[project website]](https://leohuang0511.github.io/vic-ssl/) [[code]](https://github.com/LeoHuang0511/VICSSL)
 
 * Unraveling Vanishing Point and Calibrating Tiny Objects for Semantic Scene Completion  
 Sheng-Ping Yang, Yu-Wen Tseng, Yung-Chieh Yang, I-Bin Liao, Chi-En Huang, Shen-Hsuan Liu, Yung-Hui Li, **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
-*ICIP 2025* 
+*ICIP 2025* [[paper]](https://ieeexplore.ieee.org/document/11084569) 
 
 * MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection  
 Hou-I Liu, Christine Wu, Jen-Hao Cheng, Wenhao Chai, Shian-yun Wang, Gaowen Liu, Hugo Latapie, **Jhih-Ciang Wu**, Jenq-Neng Hwang, Hong-Han Shuai, and Wen-Huang Cheng   
@@ -36,7 +36,7 @@ Jian-Yu Jiang-Lin\*, Kang-Yang Huang\*, Ling Lo, Yi-Ning Huang, Terence Lin, **J
 
 * TrajPrompt: Aligning Color Trajectory with Vision-Language Representations  
 Li-Wu Tsao, Hao-Tang Tsui, Yu Rou Tuan, Pei-Chi Chen, Kuan-Lin Wang, **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
-*ECCV 2024* [[project website]](https://trajprompt.github.io/) [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05758.pdf)
+*ECCV 2024* [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05758.pdf) [[project website]](https://trajprompt.github.io/) 
 
 * Dual Memory-guided Probabilistic Model for Weakly-supervised Anomaly Detection  
 Hsiu-Hua Chou , Ruyi Xu , Kang-Yang Huang , **Jhih-Ciang Wu**, Hong-Han Shuai, and Wen-Huang Cheng   
