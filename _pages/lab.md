@@ -58,10 +58,6 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <p><strong>I-Han Cho</strong></p>
   </div>
   <div>
-    <img src="../images/lab/002.jpg" width="200" alt="Yu-Siang Huang">
-    <p><strong>Yu-Siang Huang</strong></p>
-  </div>
-  <div>
     <img src="../images/lab/003.jpg" width="200" alt="Yu-Chiao Cheng">
     <p><strong>Yu-Chiao Cheng</strong></p>
   </div>
