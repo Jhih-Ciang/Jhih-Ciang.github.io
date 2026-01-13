@@ -22,10 +22,6 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
 ## MS Students
 <div style="text-align: center;">
   <div>
-    <img src="../images/lab/004.jpg" width="200" alt="Bo-Siang Chen">
-    <p><strong>Bo-Siang Chen</strong></p>
-  </div>  
-  <div>
     <img src="../images/lab/005.jpg" width="200" alt="Yo-Chen Lin">
     <p><strong>Yo-Chen Lin</strong></p>
   </div>
@@ -41,6 +37,14 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <img src="../images/lab/008.jpg" width="200" alt="Shih-Yao Su">
     <p><strong>Shih-Yao Su</strong></p>
   </div>
+  <div>
+    <img src="../images/lab/004.jpg" width="200" alt="Ting-Kai Chou">
+    <p><strong>Ting-Kai Chou</strong></p>
+  </div>
+  <div>
+    <img src="../images/lab/017.jpg" width="200" alt="Kristy Lan">
+    <p><strong>Kristy Lan</strong></p>
+  </div> 
 </div>
 
 ---
@@ -84,6 +88,14 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   <div>
     <img src="../images/lab/014.jpg" width="200" alt="Chao-Yu Chen">
     <p><strong>Chao-Yu Chen</strong></p>
+  </div>
+  <div>
+    <img src="../images/lab/temp.jpg" width="200" alt="Chao-Hung Cheng">
+    <p><strong>Chao-Hung Cheng</strong></p>
+  </div>
+  <div>
+    <img src="../images/lab/016.jpg" width="200" alt="Yueh-Hsi Chung">
+    <p><strong>Yueh-Hsi Chung</strong></p>
   </div>  
 </div>
 
