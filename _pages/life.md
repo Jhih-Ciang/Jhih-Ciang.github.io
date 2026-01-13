@@ -7,6 +7,26 @@ author_profile: true
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 70%; border: 0px solid black; padding: 8px;">
+      <img src="../images/life/20251222.jpg">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;">2025-12-22 CVI Lab year-end party.
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 70%; border: 0px solid black; padding: 8px;">
+      <img src="../images/life/20251126.jpg">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;">2025-11-26 Prof. Hong-Han Shuai's talk at NTNU.
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 70%; border: 0px solid black; padding: 8px;">
       <img src="../images/life/20250915.jpg">
     </td>
     <td style="border: 0px solid black; padding: 8px;">2025-09-15 Group meeting and prank to Jun-Ting.
