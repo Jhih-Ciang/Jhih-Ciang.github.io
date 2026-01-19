@@ -86,7 +86,7 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <p><strong>Chao-Yu Chen</strong></p>
   </div>
   <div>
-    <img src="../images/lab/temp.jpg" width="200" alt="Chao-Hung Cheng">
+    <img src="../images/lab/015.jpg" width="200" alt="Chao-Hung Cheng">
     <p><strong>Chao-Hung Cheng</strong></p>
   </div>
   <div>
