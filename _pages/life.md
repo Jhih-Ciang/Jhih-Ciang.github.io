@@ -8,7 +8,7 @@ author_profile: true
 /* Life page grid layout */
 .life-grid {
   display: grid;
-  gap: 30px;
+  gap: 40px; /* 間距設定 */
   margin-bottom: 40px;
 }
 
@@ -17,7 +17,7 @@ author_profile: true
   background: #fff;
   border: 1px solid #e0e0e0;
   border-radius: 8px;
-  overflow: hidden; /* Ensures image stays within rounded corners */
+  overflow: hidden;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
   transition: transform 0.2s, box-shadow 0.2s;
 }
@@ -30,21 +30,21 @@ author_profile: true
 /* Image style */
 .life-card img {
   width: 100%;
-  height: 220px; /* Fixed height for consistency */
-  object-fit: cover; /* Crops image to fill the area */
+  height: 300px; /* 配合 2 欄設計，讓圖片高一點比較好看 */
+  object-fit: cover;
   display: block;
   border-bottom: 1px solid #f0f0f0;
 }
 
 /* Content text style */
 .life-content {
-  padding: 15px;
+  padding: 20px;
 }
 
 .life-date {
   display: block;
   color: #888;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   margin-bottom: 8px;
   font-weight: bold;
   text-transform: uppercase;
@@ -53,15 +53,15 @@ author_profile: true
 
 .life-desc {
   margin: 0;
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: #333;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 /* Responsive Design */
-/* Desktop: 3 columns (Better for landscape photos) */
+/* Desktop: 2 columns (你指定的 2 欄設計) */
 @media (min-width: 1024px) {
-  .life-grid { grid-template-columns: repeat(3, 1fr); }
+  .life-grid { grid-template-columns: repeat(2, 1fr); }
 }
 /* Tablet: 2 columns */
 @media (max-width: 1023px) and (min-width: 600px) {
