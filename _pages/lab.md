@@ -5,56 +5,75 @@ author_profile: true
 ---
 
 <style>
-/* 實驗室成員網格佈局樣式 */
+/* Lab member grid layout */
 .lab-grid {
   display: grid;
-  gap: 30px; /* 卡片之間的間距 */
+  gap: 30px; /* Spacing between cards */
   margin-bottom: 40px;
 }
 
-/* 成員卡片樣式 */
+/* Member card style */
 .lab-member {
   background: #fff;
-  /* border: 1px solid #e0e0e0; 若不想要邊框可以註解掉 */
+  /* border: 1px solid #e0e0e0; Uncomment if you want a border */
   border-radius: 8px;
   padding: 10px;
   text-align: center;
-  /* box-shadow: 0 2px 5px rgba(0,0,0,0.05); 若想要平面一點可以註解掉陰影 */
+  /* box-shadow: 0 2px 5px rgba(0,0,0,0.05); Uncomment if you want a shadow */
   transition: transform 0.2s;
 }
 
 .lab-member:hover {
-  transform: translateY(-5px); /* 滑鼠移過去會浮起來 */
+  transform: translateY(-5px); /* Hover effect */
 }
 
-/* 成員名字樣式 */
+/* Member name style */
 .lab-member h3 {
   margin: 10px 0 0 0;
   font-size: 1rem;
   font-weight: 600;
 }
 
-/* 圖片樣式 */
+/* Student image style (Unified 150px) */
 .lab-member img {
-  width: 150px;       /* 設定圖片寬度 */
-  height: 150px;      /* 設定圖片高度，保持正方形 */
-  object-fit: cover;  /* 確保圖片填滿且不變形 */
-  border-radius: 50%; /* 圓形頭像 */
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
   border: 3px solid #f0f0f0;
   display: block;
-  margin: 0 auto;     /* 圖片置中 */
+  margin: 0 auto;
 }
 
-/* 響應式設計 (RWD) */
-/* 電腦版: 4欄 */
+/* PI image style (Independent setting, larger 200px) */
+.pi-container {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.pi-container img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #f0f0f0;
+  display: inline-block; /* Ensure centering */
+}
+
+.pi-container h3 {
+  margin-top: 10px;
+}
+
+/* Responsive Design (RWD) */
+/* Desktop: 4 columns */
 @media (min-width: 1024px) {
   .lab-grid { grid-template-columns: repeat(4, 1fr); }
 }
-/* 平板: 2欄 */
+/* Tablet: 2 columns */
 @media (max-width: 1023px) and (min-width: 600px) {
   .lab-grid { grid-template-columns: repeat(2, 1fr); }
 }
-/* 手機: 1欄 */
+/* Mobile: 1 column */
 @media (max-width: 599px) {
   .lab-grid { grid-template-columns: 1fr; }
 }
@@ -64,7 +83,10 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
 
 ## Principal Investigator
 
-**Jhih-Ciang Wu**
+<div class="pi-container">
+  <img src="/images/lab/000.jpg" alt="Jhih-Ciang Wu">
+  <h3><strong>Jhih-Ciang Wu</strong></h3>
+</div>
 
 ---
 
