@@ -129,10 +129,6 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <h3>I-Han Cho</h3>
   </div>
   <div class="lab-member">
-    <img src="/images/lab/003.jpg" alt="Yu-Chiao Cheng">
-    <h3>Yu-Chiao Cheng</h3>
-  </div>
-  <div class="lab-member">
     <img src="/images/lab/009.jpg" alt="Jun-Ting Wu">
     <h3>Jun-Ting Wu</h3>
   </div>
@@ -166,4 +162,13 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   </div>
 </div>
 
+## Alumni
+
+<div class="lab-grid">
+  <div class="lab-member">
+    <img src="/images/lab/003.jpg" alt="Yu-Chiao Cheng">
+    <h3>Yu-Chiao Cheng</h3>
+      <p>Next Job: MS Student, NTU EE</p>
+  </div>
+</div>
 ---
