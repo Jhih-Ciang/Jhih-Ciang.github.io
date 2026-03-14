@@ -16,7 +16,7 @@ Work Experience
 Education
 ======
 
-* Ph.D. in Computer Science and Information Engineering, National Taiwan University, 2017-2023
+* Ph.D. in Computer Science and Information Engineering, National Taiwan University, 2023
 
 Awards
 ======
