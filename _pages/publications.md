@@ -10,6 +10,10 @@ author_profile: true
 
 {% include base_path %}
 
+* Residual Adapter with Offset Correction for Accurate 3D Animal Mesh Recovery  
+Tzu-Chien Huang and **Jhih-Ciang Wu**   
+*ICME 2024* 
+
 * InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing    
 Kun-Hsiang Lin, Yu-Wen Tseng, Kang-Yang Huang, **Jhih-Ciang Wu**, and Wen-Huang Cheng   
 *ACM MM 2025* [[paper]](https://dl.acm.org/doi/10.1145/3746027.3754939) [[project website]](https://kunkunlin1221.github.io/InstructFLIP/) [[code]](https://github.com/kunkunlin1221/InstructFLIP )
