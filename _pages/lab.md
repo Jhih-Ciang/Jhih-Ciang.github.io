@@ -98,10 +98,6 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <h3>Yo-Chen Lin</h3>
   </div>
   <div class="lab-member">
-    <img src="/images/lab/006.jpg" alt="Devansh Saxena">
-    <h3>Devansh Saxena</h3>
-  </div>
-  <div class="lab-member">
     <img src="/images/lab/007.jpg" alt="Ting-Wei Lai">
     <h3>Ting-Wei Lai</h3>
   </div>
