@@ -168,3 +168,10 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   </div>
 </div>
 ---
+
+
+## NSTC Undergraduate Projects
+<ul>
+  <li>Jun-Ting Wu, 2026</li>
+  <li>Tzu-Chien Huang, 2026</li>
+</ul>
