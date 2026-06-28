@@ -77,6 +77,7 @@ author_profile: true
 @media (max-width: 599px) {
   .lab-grid { grid-template-columns: 1fr; }
 }
+
 </style>
 
 Welcome to the Computer Vision and Intelligence lab! Here are the amazing individuals who make up our team:
@@ -172,6 +173,8 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
 
 ## NSTC Undergraduate Projects
 <ul>
-  <li>Jun-Ting Wu, Efficient High-Resolution 3D Anomaly Detection via Feature-Guided Sampling and Lightweight Geometric Prediction (115-2813-C-003-059-E), 2026</li>
-  <li>Tzu-Chien Huang, Robust 3D Animal Pose Estimation and Mesh Reconstruction in Complex Multi-Animal Scenes (115-2813-C-003-058-E), 2026</li>
+  <li>Jun-Ting Wu, <em>Efficient High-Resolution 3D Anomaly Detection via Feature-Guided Sampling and Lightweight Geometric Prediction (115-2813-C-003-059-E)</em>, 2026.</li>
+  <li>Tzu-Chien Huang, <em>Robust 3D Animal Pose Estimation and Mesh Reconstruction in Complex Multi-Animal Scenes (115-2813-C-003-058-E)</em>, 2026.</li>
 </ul>
+
+
