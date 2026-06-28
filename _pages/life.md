@@ -77,7 +77,7 @@ Here are some memorable moments from our lab and academic life:
 
 <div class="life-grid">
 
-  <!-- Item 13 -->
+  <!-- Item 12 -->
   <div class="life-card">
     <img src="/images/life/20251222.jpg" alt="Year-end party">
     <div class="life-content">
@@ -86,7 +86,7 @@ Here are some memorable moments from our lab and academic life:
     </div>
   </div>
 
-  <!-- Item 12 -->
+  <!-- Item 11 -->
   <div class="life-card">
     <img src="/images/life/20251126.jpg" alt="Prof. Shuai talk">
     <div class="life-content">
@@ -95,7 +95,7 @@ Here are some memorable moments from our lab and academic life:
     </div>
   </div>
 
-  <!-- Item 11 -->
+  <!-- Item 10 -->
   <div class="life-card">
     <img src="/images/life/20250915.jpg" alt="Group meeting">
     <div class="life-content">
@@ -104,7 +104,7 @@ Here are some memorable moments from our lab and academic life:
     </div>
   </div>
 
-  <!-- Item 10 -->
+  <!-- Item 9 -->
   <div class="life-card">
     <img src="/images/life/20250507.jpg" alt="Prof. Cheng talk">
     <div class="life-content">
@@ -113,7 +113,7 @@ Here are some memorable moments from our lab and academic life:
     </div>
   </div>
 
-  <!-- Item 9 -->
+  <!-- Item 8 -->
   <div class="life-card">
     <img src="/images/life/20250430.jpg" alt="Gathering">
     <div class="life-content">
@@ -122,7 +122,7 @@ Here are some memorable moments from our lab and academic life:
     </div>
   </div>
 
-  <!-- Item 8 -->
+  <!-- Item 7 -->
   <div class="life-card">
     <img src="/images/life/20250423.jpg" alt="Fred talk">
     <div class="life-content">
@@ -131,21 +131,12 @@ Here are some memorable moments from our lab and academic life:
     </div>
   </div>
 
-  <!-- Item 7 -->
+  <!-- Item 6 -->
   <div class="life-card">
     <img src="/images/life/20250416.jpg" alt="Prof. Peng talk">
     <div class="life-content">
       <span class="life-date">2025-04-16</span>
       <p class="life-desc">Prof. Yan-Tsung Peng's talk @NTNU</p>
-    </div>
-  </div>
-
-  <!-- Item 6 -->
-  <div class="life-card">
-    <img src="/images/life/20250116.jpg" alt="Birthday">
-    <div class="life-content">
-      <span class="life-date">2025-01-16</span>
-      <p class="life-desc">Prof. Wen-Huang Cheng's birthday @NTU</p>
     </div>
   </div>
 
