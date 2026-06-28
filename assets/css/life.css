@@ -1,0 +1,66 @@
+/* Life page grid layout */
+.life-grid {
+  display: grid;
+  gap: 40px; /* 間距設定 */
+  margin-bottom: 40px;
+}
+
+/* Card style */
+.life-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.life-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+/* Image style */
+.life-card img {
+  width: 100%;
+  height: 300px; /* 配合 2 欄設計，讓圖片高一點比較好看 */
+  object-fit: cover;
+  display: block;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+/* Content text style */
+.life-content {
+  padding: 20px;
+}
+
+.life-date {
+  display: block;
+  color: #888;
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.life-desc {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #333;
+  line-height: 1.5;
+}
+
+/* Responsive Design */
+/* Desktop: 2 columns (你指定的 2 欄設計) */
+@media (min-width: 1024px) {
+  .life-grid { grid-template-columns: repeat(2, 1fr); }
+}
+/* Tablet: 2 columns */
+@media (max-width: 1023px) and (min-width: 600px) {
+  .life-grid { grid-template-columns: repeat(2, 1fr); }
+}
+/* Mobile: 1 column */
+@media (max-width: 599px) {
+  .life-grid { grid-template-columns: 1fr; }
+}
