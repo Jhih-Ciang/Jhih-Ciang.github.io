@@ -172,6 +172,6 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
 
 ## NSTC Undergraduate Projects
 <ul>
-  <li>Jun-Ting Wu, 2026</li>
-  <li>Tzu-Chien Huang, 2026</li>
+  <li>Jun-Ting Wu, Efficient High-Resolution 3D Anomaly Detection via Feature-Guided Sampling and Lightweight Geometric Prediction (115-2813-C-003-059-E), 2026</li>
+  <li>Tzu-Chien Huang, Robust 3D Animal Pose Estimation and Mesh Reconstruction in Complex Multi-Animal Scenes (115-2813-C-003-058-E), 2026</li>
 </ul>
