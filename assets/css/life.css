@@ -23,7 +23,8 @@
 /* Image style */
 .life-card img {
   width: 100%;
-  height: 300px; /* 配合 2 欄設計，讓圖片高一點比較好看 */
+  height: auto;
+  aspect-ratio: 4 / 3;
   object-fit: cover;
   display: block;
   border-bottom: 1px solid #f0f0f0;
