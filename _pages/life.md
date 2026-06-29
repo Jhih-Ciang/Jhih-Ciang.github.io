@@ -11,6 +11,15 @@ Here are some memorable moments from our lab and academic life:
 
 <div class="life-grid">
 
+  <!-- Item 13 -->
+  <div class="life-card">
+    <img src="/images/life/20260627.jpg" alt="Year-end party">
+    <div class="life-content">
+      <span class="life-date">2026-06-27</span>
+      <p class="life-desc">NTNU CSIE 40th anniversary.</p>
+    </div>
+  </div>
+
   <!-- Item 12 -->
   <div class="life-card">
     <img src="/images/life/20251222.jpg" alt="Year-end party">
