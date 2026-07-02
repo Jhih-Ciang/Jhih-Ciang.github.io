@@ -105,7 +105,7 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <p>2026 IIPP, Santa Clara University</p>
   </div>
   <div class="lab-member">
-    <img src="/images/lab/temp.jpg" alt="Cao Tiến Đạt">
+    <img src="/images/lab/902.jpg" alt="Cao Tiến Đạt">
     <h3>Cao Tiến Đạt</h3>
     <p>2026 IIPP, KAIST</p>
   </div>
