@@ -17,6 +17,14 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
 
 ---
 
+## PhD Students
+<div class="lab-grid">
+  <div class="lab-member">
+    <img src="/images/lab/001.jpg" alt="I-Han Cho">
+    <h3>I-Han Cho</h3>
+  </div>
+</div>
+
 ## MS Students
 
 <div class="lab-grid">
@@ -47,10 +55,6 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
 ## BS Students
 
 <div class="lab-grid">
-  <div class="lab-member">
-    <img src="/images/lab/001.jpg" alt="I-Han Cho">
-    <h3>I-Han Cho</h3>
-  </div>
   <div class="lab-member">
     <img src="/images/lab/009.jpg" alt="Jun-Ting Wu">
     <h3>Jun-Ting Wu</h3>
