@@ -102,12 +102,12 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   <div class="lab-member">
     <img src="/images/lab/temp.jpg" alt="Eric Wei">
     <h3>Eric Wei</h3>
-    <p>2026 IIPP, Santa Clara University</p>
+    <p>IIPP'26, Santa Clara University</p>
   </div>
   <div class="lab-member">
     <img src="/images/lab/902.jpg" alt="Cao Tiến Đạt">
     <h3>Cao Tiến Đạt</h3>
-    <p>2026 IIPP, KAIST</p>
+    <p>IIPP'26, KAIST</p>
   </div>
 
 </div>
