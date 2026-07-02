@@ -87,6 +87,14 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <img src="/images/lab/018.jpg" alt="Yong-Sheng Chang">
     <h3>Yong-Sheng Chang</h3>
   </div>
+    <div class="lab-member">
+    <img src="/images/lab/019.jpg" alt="Chen-Kai Hsu">
+    <h3>Chen-Kai Hsu</h3>
+  </div>
+  <div class="lab-member">
+    <img src="/images/lab/020.jpg" alt="Timotius Rionald Wiratama Wong">
+    <h3>Timotius Rionald Wiratama Wong</h3>
+  </div>
 </div>
 
 ## Visitings and Interns
