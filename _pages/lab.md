@@ -80,8 +80,8 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <h3>Chao-Hung Cheng</h3>
   </div>
   <div class="lab-member">
-    <img src="/images/lab/016.jpg" alt="Yueh-Hsi Chung">
-    <h3>Yueh-Hsi Chung</h3>
+    <img src="/images/lab/018.jpg" alt="Yong-Sheng Chang">
+    <h3>Yong-Sheng Chang</h3>
   </div>
 </div>
 
@@ -92,6 +92,10 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <img src="/images/lab/003.jpg" alt="Yu-Chiao Cheng">
     <h3>Yu-Chiao Cheng</h3>
       <p>Next Job: MS Student, NTU EE</p>
+  </div>
+  <div class="lab-member">
+    <img src="/images/lab/016.jpg" alt="Yueh-Hsi Chung">
+    <h3>Yueh-Hsi Chung</h3>
   </div>
 </div>
 ---
