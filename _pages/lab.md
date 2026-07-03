@@ -95,6 +95,14 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <img src="/images/lab/020.jpg" alt="Timotius Rionald Wiratama Wong">
     <h3>Timotius Rionald Wiratama Wong</h3>
   </div>
+  <div class="lab-member">
+    <img src="/images/lab/021.jpg" alt="Yu-Cheng She">
+    <h3>Yu-Cheng She</h3>
+  </div>
+  <div class="lab-member">
+    <img src="/images/lab/022.jpg" alt="Chun-Han Wang">
+    <h3>Chun-Han Wang</h3>
+  </div>
 </div>
 
 ## Visitings and Interns
