@@ -25,6 +25,8 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   </div>
 </div>
 
+---
+
 ## MS Students
 
 <div class="lab-grid">
@@ -102,6 +104,14 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   <div class="lab-member">
     <img src="/images/lab/022.jpg" alt="Chun-Han Wang">
     <h3>Chun-Han Wang</h3>
+  </div>
+  <div class="lab-member">
+    <img src="/images/lab/023.jpg">
+    <h3>Jen-Hao Lu</h3>
+  </div>
+  <div class="lab-member">
+    <img src="/images/lab/024.jpg">
+    <h3>Chung-Hsin Chia</h3>
   </div>
 </div>
 
