@@ -122,7 +122,7 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
 ## Visitings and Interns
 <div class="lab-grid">
   <div class="lab-member">
-    <img src="/images/lab/temp.jpg" alt="Eric Wei">
+    <img src="/images/lab/901.jpg" alt="Eric Wei">
     <h3>Eric Wei</h3>
     <p>IIPP'26, Santa Clara University</p>
   </div>
