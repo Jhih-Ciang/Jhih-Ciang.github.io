@@ -10,6 +10,10 @@ author_profile: true
 
 {% include base_path %}
 
+* See More, Detect Less? Taming Information Leakage in Multi-View Anomaly Detection  
+Shang-Fu Chen, Kuan-Chuan Peng, **Jhih-Ciang Wu**, Wen-Huang Cheng, and Kailung Hua    
+*ACM MM 2026*
+
 * Residual Adapter with Offset Correction for Accurate 3D Animal Mesh Recovery  
 Tzu-Chien Huang and **Jhih-Ciang Wu**   
 *ICME 2026* <!-- (Accepting rate = 28.89% (1101/3810)) -->
