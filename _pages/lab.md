@@ -117,6 +117,10 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <img src="/images/lab/025.jpg">
     <h3>Yi-Jia Huang</h3>
   </div>
+  <div class="lab-member">
+    <img src="/images/lab/026.jpg">
+    <h3> Wen-Yin Chen </h3>
+  </div>
 </div>
 
 ## Visitings and Interns
