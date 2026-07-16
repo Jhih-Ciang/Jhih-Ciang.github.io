@@ -153,6 +153,11 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
 </div>
 ---
 
+## Projects
+<ul>
+  <li><em>Comprehensive Industrial Anomaly Detection System Based on Foundation Models and Multi-modal Fusion: From Time Series, 3D to Multi-view Perception (NSTC 115-2221-E-003-016)</em>, PI, 2026/8/1-2027/7/31.</li>
+  <li><em>Deep Learning-Driven Dynamic Adaptation and Efficiency Boost in 3D Vision (NSTC 114-2222-E-003-001)</em>,PI , 2025/09/01-2026/8/31.</li>
+</ul>
 
 ## NSTC Undergraduate Projects
 <ul>
