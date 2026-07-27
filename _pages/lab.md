@@ -121,6 +121,10 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <img src="/images/lab/026.jpg">
     <h3> Wen-Yin Chen </h3>
   </div>
+  <div class="lab-member">
+    <img src="/images/lab/027.jpg">
+    <h3> Wei-You Lin </h3>
+  </div>
 </div>
 
 ---
