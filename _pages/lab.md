@@ -177,4 +177,5 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   <li>Tzu-Chien Huang, <em>Robust 3D Animal Pose Estimation and Mesh Reconstruction in Complex Multi-Animal Scenes (115-2813-C-003-058-E)</em>, 2026.</li>
 </ul>
 
-
+## Location -- NTNU Gongguan Campus
+Room 105, Applied Science Building, No.88, Sec. 4, Tingzhou Rd., Wenshan Dist., Taipei City 116, Taiwan
