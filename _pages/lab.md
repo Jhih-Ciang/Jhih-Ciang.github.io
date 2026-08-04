@@ -167,7 +167,6 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   <li><em>Comprehensive Industrial Anomaly Detection System Based on Foundation Models and Multi-modal Fusion: From Time Series, 3D to Multi-view Perception (NSTC 115-2221-E-003-016)</em>, PI, 2026/8/1-2027/7/31.</li>
   <li><em>Deep Learning-Driven Dynamic Adaptation and Efficiency Boost in 3D Vision (NSTC 114-2222-E-003-001)</em>,PI , 2025/09/01-2026/8/31.</li>
 </ul>
-
 ---
 
 
@@ -176,6 +175,7 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   <li>Jun-Ting Wu, <em>Efficient High-Resolution 3D Anomaly Detection via Feature-Guided Sampling and Lightweight Geometric Prediction (115-2813-C-003-059-E)</em>, 2026.</li>
   <li>Tzu-Chien Huang, <em>Robust 3D Animal Pose Estimation and Mesh Reconstruction in Complex Multi-Animal Scenes (115-2813-C-003-058-E)</em>, 2026.</li>
 </ul>
+---
 
 ## Location -- NTNU Gongguan Campus
 Room 105, Applied Science Building, No.88, Sec. 4, Tingzhou Rd., Wenshan Dist., Taipei City 116, Taiwan
