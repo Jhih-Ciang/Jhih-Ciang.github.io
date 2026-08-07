@@ -10,6 +10,14 @@ author_profile: true
 
 {% include base_path %}
 
+* CoDehaze: Color-Driven Diffusion with Structured Haze Guidance for Image Dehazing  
+Chia-Hsin Chang\*, Yu-Chiao Cheng\*, Chiou-Shann Fuh, and **Jhih-Ciang Wu**    
+*BMVC 2026* *equal contribution <!-- (Accepting rate = 27.9% (404/1448)) -->
+
+* GeoMAD: Geometry-Aware Multi-View Anomaly Detection via Deformable Fusion and Distributional Alignment  
+Shang-Fu Chen, **Jhih-Ciang Wu**, Kuan-Chuan Peng, Wen-Huang Cheng, and Kailung Hua    
+*BMVC 2026* <!-- (Accepting rate = 27.9% (404/1448)) -->
+
 * See More, Detect Less? Taming Information Leakage in Multi-View Anomaly Detection  
 Shang-Fu Chen, Kuan-Chuan Peng, **Jhih-Ciang Wu**, Wen-Huang Cheng, and Kailung Hua    
 *ACM MM 2026*
