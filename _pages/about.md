@@ -18,7 +18,7 @@ My research interests encompass **computer vision**, **machine learning**, **mul
 
 📩 *jcwu (at) csie (dot) ntnu (dot) edu (dot) tw*
 
-📢 MS position for 2026 is still open (multiple positions available). Please email me if you would like to work under my supervision.  
+📢 MS position for 2026 is still open (multiple positions available). Please email me with your resume if you would like to work under my supervision.  
 ‼️ For international students: please contact me after you receive your admission; otherwise, I will ignore your email. Additionally, I cannot issue an acceptance letter based solely on your email.  
 
 # Academic Service
