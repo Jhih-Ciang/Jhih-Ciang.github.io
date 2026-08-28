@@ -10,6 +10,10 @@ author_profile: true
 
 {% include base_path %}
 
+* Density-assisted Adaptive Alignment Network for Video Individual Counting  
+Feng-Kai Huang, Kai-Jui Weng, **Jhih-Ciang Wu**, Yung-Hui Li, Wen-Huang Cheng, and Hong-Han Shuai   
+*ACM TIST 2026* 
+
 * CoDehaze: Color-Driven Diffusion with Structured Haze Guidance for Image Dehazing  
 Yu-Chiao Cheng\*, Chia-Hsin Chang\*, Chiou-Shann Fuh, and **Jhih-Ciang Wu**    
 *BMVC 2026* *equal contribution <!-- (Accepting rate = 27.9% (404/1448)) -->
