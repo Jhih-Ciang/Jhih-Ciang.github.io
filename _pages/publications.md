@@ -11,7 +11,7 @@ author_profile: true
 {% include base_path %}
 
 * Reflect for Free: Symmetry for Training-Free Point Cloud 3D Anomaly Detection
-Jun-Ting Wu, Yuan-Chiun Lo, Chao-Yu Chen, Kuan-Hung Chen, Ming-Ching Chang, and **Jhih-Ciang Wu** 
+Jun-Ting Wu, Yuan-Chiun Lo, Chao-Yu Chen, Kuan-Hung Chen, Ming-Ching Chang, and **Jhih-Ciang Wu**   
 *ACCV 2026* 
 
 * Density-assisted Adaptive Alignment Network for Video Individual Counting  
