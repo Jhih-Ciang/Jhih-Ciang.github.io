@@ -20,7 +20,7 @@ Feng-Kai Huang, Kai-Jui Weng, **Jhih-Ciang Wu**, Yung-Hui Li, Wen-Huang Cheng, a
 
 * CoDehaze: Color-Driven Diffusion with Structured Haze Guidance for Image Dehazing  
 Yu-Chiao Cheng\*, Chia-Hsin Chang\*, Chiou-Shann Fuh, and **Jhih-Ciang Wu**    
-*BMVC 2026* *equal contribution <!-- (Accepting rate = 27.9% (404/1448)) -->
+*BMVC 2026* *equal contribution [[code]](https://github.com/u-chow/CoDehaze) <!-- (Accepting rate = 27.9% (404/1448)) -->
 
 * GeoMAD: Geometry-Aware Multi-View Anomaly Detection via Deformable Fusion and Distributional Alignment  
 Shang-Fu Chen, **Jhih-Ciang Wu**, Kuan-Chuan Peng, Wen-Huang Cheng, and Kailung Hua    
