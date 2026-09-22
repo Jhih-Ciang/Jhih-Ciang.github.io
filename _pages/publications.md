@@ -24,11 +24,11 @@ Yu-Chiao Cheng\*, Chia-Hsin Chang\*, Chiou-Shann Fuh, and **Jhih-Ciang Wu**
 
 * GeoMAD: Geometry-Aware Multi-View Anomaly Detection via Deformable Fusion and Distributional Alignment  
 Shang-Fu Chen, **Jhih-Ciang Wu**, Kuan-Chuan Peng, Wen-Huang Cheng, and Kailung Hua    
-*BMVC 2026* <!-- (Accepting rate = 27.9% (404/1448)) -->
+*BMVC 2026* [[paper]](https://arxiv.org/pdf/2608.26724) <!-- (Accepting rate = 27.9% (404/1448)) -->
 
 * See More, Detect Less? Taming Information Leakage in Multi-View Anomaly Detection  
 Shang-Fu Chen, Kuan-Chuan Peng, **Jhih-Ciang Wu**, Wen-Huang Cheng, and Kailung Hua    
-*ACM MM 2026*
+*ACM MM 2026* [[paper]](https://arxiv.org/pdf/2608.25168)
 
 * Residual Adapter with Offset Correction for Accurate 3D Animal Mesh Recovery  
 Tzu-Chien Huang and **Jhih-Ciang Wu**   
