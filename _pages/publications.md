@@ -16,7 +16,7 @@ Jun-Ting Wu, Yuan-Chiun Lo, Chao-Yu Chen, Kuan-Hung Chen, Ming-Ching Chang, and 
 
 * Density-assisted Adaptive Alignment Network for Video Individual Counting  
 Feng-Kai Huang, Kai-Jui Weng, **Jhih-Ciang Wu**, Yung-Hui Li, Wen-Huang Cheng, and Hong-Han Shuai   
-*ACM TIST 2026* 
+*ACM TIST 2026* [[code]](https://github.com/LeoHuang0511/DAANet)
 
 * CoDehaze: Color-Driven Diffusion with Structured Haze Guidance for Image Dehazing  
 Yu-Chiao Cheng\*, Chia-Hsin Chang\*, Chiou-Shann Fuh, and **Jhih-Ciang Wu**    
