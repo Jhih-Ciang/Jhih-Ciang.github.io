@@ -39,7 +39,6 @@ Please note that admission does not guarantee that I will be able to supervise y
 Emails without this keyword may not be read.
 </p>
 
-</div>
 
 
 # Academic Service
