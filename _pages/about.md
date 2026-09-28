@@ -33,14 +33,11 @@ After receiving your official admission to NTNU, you may contact me regarding po
 Please note that admission does not guarantee that I will be able to supervise you.
 </p>
 
-<p style="margin-bottom: 0;">
+<p style="margin-bottom: 2em;">
 <strong>Important:</strong> If you have already been admitted, please include
 <strong>[NTNU-Admitted]</strong> in the subject line of your email.
-Emails without this keyword may not be read.  
-</p>  
-
-
-
+Emails without this keyword may not be read.
+</p>
 
 # Academic Service
 
