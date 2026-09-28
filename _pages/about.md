@@ -36,8 +36,9 @@ Please note that admission does not guarantee that I will be able to supervise y
 <p style="margin-bottom: 0;">
 <strong>Important:</strong> If you have already been admitted, please include
 <strong>[NTNU-Admitted]</strong> in the subject line of your email.
-Emails without this keyword may not be read.
+Emails without this keyword may not be read.  
 </p>
+
 
 
 
