@@ -18,8 +18,29 @@ My research interests encompass **computer vision**, **machine learning**, **mul
 
 📩 *jcwu (at) csie (dot) ntnu (dot) edu (dot) tw*
 
-📢 MS position for 2026 is still open (multiple positions available). Please email me with your resume if you would like to work under my supervision.  
-‼️ For international students: please contact me after you receive your admission; otherwise, I will ignore your email. Additionally, I cannot issue an acceptance letter based solely on your email.  
+<!--📢 MS position for 2026 is still open (multiple positions available). Please email me with your resume if you would like to work under my supervision.  -->
+
+<strong>⚠️ Notice for Prospective International Students</strong>
+
+<p style="margin-top: 10px;">
+Please <strong>do not contact me before receiving official admission from NTNU</strong>.
+I do not provide pre-admission evaluations, supervision confirmations, willingness letters, or acceptance letters in response to unsolicited emails.
+Emails from applicants who have not yet been admitted will <strong>not receive a reply</strong>.
+</p>
+
+<p>
+After receiving your official admission to NTNU, you may contact me regarding potential supervision.
+Please note that admission does not guarantee that I will be able to supervise you.
+</p>
+
+<p style="margin-bottom: 0;">
+<strong>Important:</strong> If you have already been admitted, please include
+<strong>[NTNU-Admitted]</strong> in the subject line of your email.
+Emails without this keyword may not be read.
+</p>
+
+</div>
+
 
 # Academic Service
 
