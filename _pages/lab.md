@@ -46,6 +46,14 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <img src="/images/lab/004.jpg" alt="Ting-Kai Chou">
     <h3>Ting-Kai Chou</h3>
   </div>
+  <div class="lab-member">
+    <img src="/images/lab/028.jpg">
+    <h3> Hsin-Jui Chen </h3>
+  </div>
+  <div class="lab-member">
+    <img src="/images/lab/029.jpg">
+    <h3> Yu-Chen Tseng </h3>
+  </div>
 </div>
 
 ---
