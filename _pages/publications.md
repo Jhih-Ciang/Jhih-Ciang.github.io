@@ -10,6 +10,10 @@ author_profile: true
 
 {% include base_path %}
 
+* When Consensus Hurts: Task-Balanced Consensus Subtraction for LoRA Model Merging  
+Ting-Kai Chou, I-Han Cho, Eric Wei, and **Jhih-Ciang Wu**
+*WACV 2027*
+
 * Reflect for Free: Symmetry for Training-Free Point Cloud 3D Anomaly Detection  
 Jun-Ting Wu, Yuan-Chiun Lo, Chao-Yu Chen, Kuan-Hung Chen, Ming-Ching Chang, and **Jhih-Ciang Wu**   
 *ACCV 2026* [[code]](https://github.com/happylittle7/Sym3D-AD)
