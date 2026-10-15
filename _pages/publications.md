@@ -11,7 +11,7 @@ author_profile: true
 {% include base_path %}
 
 * When Consensus Hurts: Task-Balanced Consensus Subtraction for LoRA Model Merging  
-Ting-Kai Chou, I-Han Cho, Eric Wei, and **Jhih-Ciang Wu**
+Ting-Kai Chou, I-Han Cho, Eric Wei, and **Jhih-Ciang Wu**   
 *WACV 2027*
 
 * Reflect for Free: Symmetry for Training-Free Point Cloud 3D Anomaly Detection  
