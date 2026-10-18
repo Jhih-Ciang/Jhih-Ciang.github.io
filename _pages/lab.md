@@ -62,28 +62,12 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
 
 <div class="lab-grid">
   <div class="lab-member">
-    <img src="/images/lab/009.jpg" alt="Jun-Ting Wu">
-    <h3>Jun-Ting Wu</h3>
-  </div>
-  <div class="lab-member">
     <img src="/images/lab/010.jpg" alt="Tzu-Chien Huang">
     <h3>Tzu-Chien Huang</h3>
   </div>
   <div class="lab-member">
-    <img src="/images/lab/011.jpg" alt="Kuan-Hung Chen">
-    <h3>Kuan-Hung Chen</h3>
-  </div>
-  <div class="lab-member">
-    <img src="/images/lab/012.jpg" alt="Chia-Hsin Chang">
-    <h3>Chia-Hsin Chang</h3>
-  </div>
-  <div class="lab-member">
-    <img src="/images/lab/013.jpg" alt="Jethro Lo">
-    <h3>Jethro Lo</h3>
-  </div>
-  <div class="lab-member">
-    <img src="/images/lab/014.jpg" alt="Chao-Yu Chen">
-    <h3>Chao-Yu Chen</h3>
+    <img src="/images/lab/013.jpg">
+    <h3>Yuan-Chiun (Jet) Lo</h3>
   </div>
   <div class="lab-member">
     <img src="/images/lab/015.jpg" alt="Chao-Hung Cheng">
@@ -162,6 +146,24 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
     <img src="/images/lab/016.jpg" alt="Yueh-Hsi Chung">
     <h3>Yueh-Hsi Chung</h3>
   </div>
+  <div class="lab-member">
+    <img src="/images/lab/012.jpg" alt="Chia-Hsin Chang">
+    <h3>Chia-Hsin Chang</h3>
+  </div>
+  <div class="lab-member">
+    <img src="/images/lab/014.jpg" alt="Chao-Yu Chen">
+    <h3>Chao-Yu Chen</h3>
+  </div>
+    <div class="lab-member">
+    <img src="/images/lab/009.jpg" alt="Jun-Ting Wu">
+    <h3>Jun-Ting Wu</h3>
+  </div>
+  <div class="lab-member">
+    <img src="/images/lab/011.jpg" alt="Kuan-Hung Chen">
+    <h3>Kuan-Hung Chen</h3>
+  </div>
+  
+  
 </div>
 
 ---
