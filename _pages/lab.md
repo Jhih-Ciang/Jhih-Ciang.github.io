@@ -62,6 +62,10 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
 
 <div class="lab-grid">
   <div class="lab-member">
+    <img src="/images/lab/009.jpg" alt="Jun-Ting Wu">
+    <h3>Jun-Ting Wu</h3>
+  </div>
+  <div class="lab-member">
     <img src="/images/lab/010.jpg" alt="Tzu-Chien Huang">
     <h3>Tzu-Chien Huang</h3>
   </div>
@@ -153,10 +157,6 @@ Welcome to the Computer Vision and Intelligence lab! Here are the amazing indivi
   <div class="lab-member">
     <img src="/images/lab/014.jpg" alt="Chao-Yu Chen">
     <h3>Chao-Yu Chen</h3>
-  </div>
-    <div class="lab-member">
-    <img src="/images/lab/009.jpg" alt="Jun-Ting Wu">
-    <h3>Jun-Ting Wu</h3>
   </div>
   <div class="lab-member">
     <img src="/images/lab/011.jpg" alt="Kuan-Hung Chen">
